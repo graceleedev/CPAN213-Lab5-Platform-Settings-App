@@ -1,4 +1,11 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# Platform Settings App - Lab 4
+
+## Student Information
+- **Name:** Grace Lee
+- **Student ID:** n01714563
+- **Course:** CPAN 213
+- **Lab:** Lab 5 - Platform Settings App
+- **Date:** October 16, 2025
 
 # Getting Started
 
